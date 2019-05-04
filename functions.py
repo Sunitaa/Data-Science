@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  3 09:00:29 2019
-
-@author: sunita
-"""
+#creating and using functions
 
 def add(a,b):
     return a+b
