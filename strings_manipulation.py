@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  3 08:45:34 2019
-
-@author: sunita
-"""
-
-
 name = "sunita"
 surname = 'verma'
 
@@ -34,7 +26,6 @@ print (name)
 isinstance(name, str)
 
 isinstance(name, int)
-
 
 
 name = 10
